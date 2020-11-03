@@ -2091,6 +2091,12 @@ a:hover.back-to-top {
 	}
 	/* end of testimonials */
 
+  #plusp {
+    display: inline;
+    margin-top: 0;
+    margin-bottom: 1rem;
+    font-size: 60px !important;
+  }
 
 	/* Features */
 	.tabs {
