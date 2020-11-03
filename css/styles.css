@@ -2154,6 +2154,55 @@ a:hover.back-to-top {
 	/* end of features */
 
 
+/*  chamging prop of tab-3 to tab-1*/
+.tabs #tab-3 .li-space-lg li {
+	margin-bottom: 1.375rem;
+}
+
+.tabs #tab-3 img {
+	display: block;
+	margin: 2rem auto 5rem auto;
+}
+
+.tabs #tab-3 .list-unstyled {
+  margin-top: 2.5rem;
+}
+
+.tabs #tab-3 .li-space-lg li {
+  margin-bottom: 1.875rem;
+}
+
+.tabs #tab-3 .first .fa-stack {
+  position: absolute;
+  right: 0;
+}
+
+.tabs #tab-3 .first .media-body {
+  max-width: 12.625rem;
+  text-align: right;
+}
+
+.tabs #tab-3 img {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.tabs #tab-3 .list-unstyled {
+  margin-top: 3.875rem;
+}
+
+.tabs #tab-3 .li-space-lg li {
+  margin-bottom: 2.875rem;
+}
+
+.tabs #tab-3 .first .media-body {
+  max-width: 16.375rem;
+  margin-right: 5.75rem;
+  margin-left: auto;
+}
+
+
+
 	/* Details 1 */
 	.basic-2 .image-container {
 		margin-left: 3rem;
