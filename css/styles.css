@@ -886,7 +886,7 @@ input[type='checkbox'] {
 	margin-bottom: 0.75rem;
 }
 
-.tabs #tab-3 .li-space-lg li {
+/*.tabs #tab-3 .li-space-lg li {
 	margin-bottom: 1.375rem;
 }
 
@@ -902,7 +902,7 @@ input[type='checkbox'] {
 .tabs #tab-3 img {
 	display: block;
 	margin: 1rem auto 2rem auto;
-}
+} */
 
 
 /*****************/
@@ -1949,9 +1949,9 @@ a:hover.back-to-top {
 		margin-bottom: 0;
 	}
 
-	.tabs #tab-3 p.sub-heading {
+	/*.tabs #tab-3 p.sub-heading {
 		margin-bottom: 0;
-	}
+	}*/
 	/* end of features */
 
 
@@ -2133,7 +2133,7 @@ a:hover.back-to-top {
 		margin-bottom: 1.5rem;
 	}
 
-	.tabs #tab-3 .list-unstyled {
+	/*.tabs #tab-3 .list-unstyled {
 		display: inline-block;
 		width: 21.125rem;
 		margin-top: 1rem;
@@ -2150,7 +2150,7 @@ a:hover.back-to-top {
 
 	.tabs #tab-3 h3 {
 		margin-top: 0;
-	}
+	} */
 	/* end of features */
 
 
